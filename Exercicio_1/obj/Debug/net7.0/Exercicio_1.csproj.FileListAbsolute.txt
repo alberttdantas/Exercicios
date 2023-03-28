@@ -1,0 +1,15 @@
+C:\gitclone\iara\exercicio_3\exercicio_1\bin\Debug\net7.0\Exercicio_1.exe
+C:\gitclone\iara\exercicio_3\exercicio_1\bin\Debug\net7.0\Exercicio_1.deps.json
+C:\gitclone\iara\exercicio_3\exercicio_1\bin\Debug\net7.0\Exercicio_1.runtimeconfig.json
+C:\gitclone\iara\exercicio_3\exercicio_1\bin\Debug\net7.0\Exercicio_1.dll
+C:\gitclone\iara\exercicio_3\exercicio_1\bin\Debug\net7.0\Exercicio_1.pdb
+C:\gitclone\iara\exercicio_3\exercicio_1\obj\Debug\net7.0\Exercicio_1.csproj.AssemblyReference.cache
+C:\gitclone\iara\exercicio_3\exercicio_1\obj\Debug\net7.0\Exercicio_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\gitclone\iara\exercicio_3\exercicio_1\obj\Debug\net7.0\Exercicio_1.AssemblyInfoInputs.cache
+C:\gitclone\iara\exercicio_3\exercicio_1\obj\Debug\net7.0\Exercicio_1.AssemblyInfo.cs
+C:\gitclone\iara\exercicio_3\exercicio_1\obj\Debug\net7.0\Exercicio_1.csproj.CoreCompileInputs.cache
+C:\gitclone\iara\exercicio_3\exercicio_1\obj\Debug\net7.0\Exercicio_1.dll
+C:\gitclone\iara\exercicio_3\exercicio_1\obj\Debug\net7.0\refint\Exercicio_1.dll
+C:\gitclone\iara\exercicio_3\exercicio_1\obj\Debug\net7.0\Exercicio_1.pdb
+C:\gitclone\iara\exercicio_3\exercicio_1\obj\Debug\net7.0\Exercicio_1.genruntimeconfig.cache
+C:\gitclone\iara\exercicio_3\exercicio_1\obj\Debug\net7.0\ref\Exercicio_1.dll
